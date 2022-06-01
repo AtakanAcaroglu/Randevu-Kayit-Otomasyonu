@@ -1,0 +1,21 @@
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\bin\Debug\Proje şeysi.exe.config
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\bin\Debug\Proje şeysi.exe
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\bin\Debug\Proje şeysi.pdb
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje şeysi.csproj.AssemblyReference.cache
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje_şeysi.Form1.resources
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje_şeysi.Properties.Resources.resources
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje şeysi.csproj.GenerateResource.cache
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje şeysi.csproj.CoreCompileInputs.cache
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje şeysi.exe
+C:\Users\Nothi\Desktop\MBP 104\Çalışmalar\Proje şeysi\obj\Debug\Proje şeysi.pdb
+C:\Users\Mcune\Desktop\Proje şeysi\bin\Debug\Proje şeysi.exe.config
+C:\Users\Mcune\Desktop\Proje şeysi\bin\Debug\Proje şeysi.exe
+C:\Users\Mcune\Desktop\Proje şeysi\bin\Debug\Proje şeysi.pdb
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje şeysi.csproj.AssemblyReference.cache
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje şeysi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje_şeysi.Form1.resources
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje_şeysi.Properties.Resources.resources
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje şeysi.csproj.GenerateResource.cache
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje şeysi.csproj.CoreCompileInputs.cache
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje şeysi.exe
+C:\Users\Mcune\Desktop\Proje şeysi\obj\Debug\Proje şeysi.pdb
